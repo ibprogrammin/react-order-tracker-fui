@@ -1,0 +1,67 @@
+{
+  "gear": [
+    {
+      "id": 1,
+      "unit": "Cintenna 2",
+      "version": "",
+      "quantity": 100,
+      "region": "Toronto"
+    },
+    {
+      "id": 2,
+      "unit": "12CH 200W",
+      "version": "",
+      "quantity": 95,
+      "region": "Toronto"
+    },
+    {
+      "id": 3,
+      "unit": "Cintenna RX Battery",
+      "version": "",
+      "quantity": 3,
+      "region": "Toronto"
+    },
+    {
+      "id": 4,
+      "unit": "24CH DUO",
+      "version": "US",
+      "quantity": 32,
+      "region": "Toronto"
+    },
+    {
+      "id": 5,
+      "unit": "6CH 2.4K Edison",
+      "version": "CA",
+      "quantity": 12,
+      "region": "Toronto"
+    },
+    {
+      "id": 6,
+      "unit": "6CH 2.4K SOCA",
+      "version": "CA",
+      "quantity": 15,
+      "region": "Toronto"
+    },
+    {
+      "id": 7,
+      "unit": "24CH DUO",
+      "version": "CA",
+      "quantity": 200,
+      "region": "Toronto"
+    },
+    {
+      "id": 8,
+      "unit": "Data Sphere",
+      "version": "",
+      "quantity": 22,
+      "region": "Toronto"
+    },
+    {
+      "id": 9,
+      "unit": "10CH 1.2K Edison",
+      "version": "CA",
+      "quantity": 5,
+      "region": "Toronto"
+    }
+  ]
+}
